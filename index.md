@@ -1,5 +1,5 @@
 
-### Hannah Schieber∗,(1), Fabian Duerr∗,(2), Torsten Schoen(3), and Jurgen Beyerer(2,4)
+**Hannah Schieber∗,(1), Fabian Duerr∗,(2), Torsten Schoen(3), and Jurgen Beyerer(2,4)**
 
 ∗Equal contribution
 (1) Human-Centered Computing and Extended Reality, Friedrich-Alexander University (FAU) Erlangen-Nurnberg, Erlangen, Germany 
