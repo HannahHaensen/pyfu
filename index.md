@@ -1,4 +1,4 @@
-## Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation
+
 ### Hannah Schieber∗,(1), Fabian Duerr∗,(2), Torsten Schoen(3), and Jurgen Beyerer(2,4)
 
 ∗Equal contribution
