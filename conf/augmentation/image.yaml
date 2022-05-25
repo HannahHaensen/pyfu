@@ -1,0 +1,31 @@
+# @package _group_
+flip:
+  p: 0.5
+  mode: horizontal  # or vertical or both
+random_crop:
+  size: [ 64, 1024 ]
+  limit_h: [ 0, 64 ]
+  limit_w: [ 370, 1394 ]
+  # set limits
+    # size: [ 44, 484 ]
+    #  limit_h: [ 0, 44 ]
+    #  limit_w: [ 897, 1381 ]
+    # size: [ 64, 484 ]
+    #  limit_h: [ 0, 64 ]
+    #  limit_w: [ 370, 1394 ]
+
+  # limit_h: [0, 0]
+  # limit_w: [0, 0]
+  # size: [370, 370]
+  # "Lidar_0_sensor_overlap": [
+    #    0.0,
+    #    45.0,
+    #    897.0,
+    #    1382.0
+    #  ]
+  # "Lidar_0_sensor_overlap": [
+    #    0.0,
+    #    44.0,
+    #    897.0,
+  #    1381.0
+  #  ]

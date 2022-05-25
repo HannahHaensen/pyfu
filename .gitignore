@@ -1,0 +1,11 @@
+mlruns/*
+outputs/*
+.idea/*
+*/.idea/*
+__pycache__/*
+*/__pycache__/*
+*.pth
+*.h5
+.idea/workspace.xml
+.idea/workspace.xml
+custom/.ipynb_checkpoints/test-checkpoint.ipynb
