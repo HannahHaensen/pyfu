@@ -33,7 +33,12 @@ Please finde the Code here: [GitHub](https://github.com/HannahHaensen/pyfu/)
 pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-Part of the Code is borrowed from these repositories [EfficientPS](https://github.com/DeepSceneSeg/EfficientPS) and  [PSPNet](https://github.com/hszhao/PSPNet). Furthermore, it build upon the fusion idea of Duerr et. al:
+
+```
+pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+```
+
+Part of the Code is borrowed from these repositories [EfficientPS](https://github.com/DeepSceneSeg/EfficientPS) and  [PSPNet](https://github.com/hszhao/PSPNet). Furthermore, it builds upon the fusion idea of Duerr et. al:
 
 ```
 @INPROCEEDINGS{9287974,  author={Duerr, Fabian and Weigel, Hendrik and Maehlisch, Mirko and Beyerer, Jürgen}, 
@@ -44,7 +49,11 @@ Part of the Code is borrowed from these repositories [EfficientPS](https://githu
 }
 ```
 
-if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation. Citation of our work will be available soon.
+if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation.
+
+```
+paper citation coming soon!
+```
 
 
 
