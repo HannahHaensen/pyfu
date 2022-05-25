@@ -40,6 +40,10 @@ Part of the Code is borrowed from these repositories [EfficientPS](https://githu
 }
 ```
 
-if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation
+if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation.
+
+```
+paper citation coming soon!
+```
 
 
