@@ -27,6 +27,8 @@ Robust environment perception for autonomous vehicles is a tremendous challenge,
 
 # Code
 
+Please finde the Code here: [GitHub](https://github.com/HannahHaensen/pyfu/)
+
 ```
 pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 ```
@@ -42,7 +44,7 @@ Part of the Code is borrowed from these repositories [EfficientPS](https://githu
 }
 ```
 
-if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation
+if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation. Citation of our work will be available soon.
 
 
 
