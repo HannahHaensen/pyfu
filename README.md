@@ -4,8 +4,8 @@
 ## Contributors:
 Hannah Schieber*, Fabian Duerr*, Torsten Schoen and Jürgen Beyerer
 
-'*' equal contribution
-e-mail: hannah.schieber[at]fau.de
+- '*' equal contribution
+- e-mail: hannah.schieber[at]fau.de
 
 ## Abstract
 
