@@ -40,6 +40,8 @@ Part of the Code is borrowed from these repositories [EfficientPS](https://githu
 }
 ```
 
+However, we can not provide the full training code, but the important parts of our network are publicly available. A training cicle and prepocessing has to be implemented.
+
 if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation.
 
 ```
