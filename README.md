@@ -45,7 +45,16 @@ However, we can not provide the full training code, but the important parts of o
 if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation.
 
 ```
-paper citation coming soon!
+@misc{https://doi.org/10.48550/arxiv.2205.13629,
+  doi = {10.48550/ARXIV.2205.13629},
+  url = {https://arxiv.org/abs/2205.13629},
+  author = {Schieber, Hannah and Duerr, Fabian and Schoen, Torsten and Beyerer, Jürgen},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Robotics (cs.RO), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
 ```
 
 
