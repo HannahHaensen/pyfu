@@ -6,8 +6,7 @@
 - (3) Research Institute AImotion Bavaria, Technische Hochschule Ingolstadt, Ingolstadt, Germany
 - (4) Fraunhofer Institute of Optronics, System Technologies and Image Exploitation (IOSB), Fraunhofer Center of Machine Learning, Karlsruhe
 
-* equal contribution
-e-mail: hannah.schieber[at]fau.de
+(*) equal contribution, contact e-mail: hannah.schieber[at]fau.de
 
 ## Abstract
 
