@@ -33,18 +33,7 @@ Please finde the Code here: [GitHub](https://github.com/HannahHaensen/pyfu/)
 pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
-Part of the Code is borrowed from these repositories [EfficientPS](https://github.com/DeepSceneSeg/EfficientPS) and  [PSPNet](https://github.com/hszhao/PSPNet). Furthermore, it builds upon the fusion idea of Duerr et. al:
-
-```
-@INPROCEEDINGS{9287974,  author={Duerr, Fabian and Weigel, Hendrik and Maehlisch, Mirko and Beyerer, Jürgen}, 
-	 booktitle={2020 Fourth IEEE International Conference on Robotic Computing (IRC)},  
-	 title={Iterative Deep Fusion for 3D Semantic Segmentation},   
-	year={2020},  
-	volume={},  number={},  pages={391-397},  doi={10.1109/IRC.2020.00067}
-}
-```
-
-if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation.
+If you build upon our code please cite our work:
 
 ```
 @misc{https://doi.org/10.48550/arxiv.2205.13629,
@@ -58,6 +47,19 @@ if you cite our work please also consider the previous approach Iterative Deep F
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
+
+Part of the Code is borrowed from these repositories [EfficientPS](https://github.com/DeepSceneSeg/EfficientPS) and [PSPNet](https://github.com/hszhao/PSPNet). Furthermore, it builds upon the fusion idea of Duerr et. al:
+
+```
+@INPROCEEDINGS{9287974,  author={Duerr, Fabian and Weigel, Hendrik and Maehlisch, Mirko and Beyerer, Jürgen}, 
+	 booktitle={2020 Fourth IEEE International Conference on Robotic Computing (IRC)},  
+	 title={Iterative Deep Fusion for 3D Semantic Segmentation},   
+	year={2020},  
+	volume={},  number={},  pages={391-397},  doi={10.1109/IRC.2020.00067}
+}
+```
+
+if you cite our work please also consider the previous approach Iterative Deep Fusion for 3D Semantic Segmentation.
 
 
 
