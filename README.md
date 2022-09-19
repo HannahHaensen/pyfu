@@ -58,3 +58,8 @@ if you cite our work please also consider the previous approach Iterative Deep F
 ```
 
 
+# Video
+
+[![IV Talk](https://user-images.githubusercontent.com/22636930/191116617-bcc2e872-f953-4613-8690-4c58aa445004.png)](https://youtu.be/3-cz_T6T6PM)
+
+
