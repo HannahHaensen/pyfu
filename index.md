@@ -35,15 +35,13 @@ pip install torch==1.6.0+cu101 torchvision==0.7.0+cu101 -f https://download.pyto
 If you build upon our code please cite our work:
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2205.13629,
-  doi = {10.48550/ARXIV.2205.13629},
-  url = {https://arxiv.org/abs/2205.13629},
-  author = {Schieber, Hannah and Duerr, Fabian and Schoen, Torsten and Beyerer, Jürgen},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), Robotics (cs.RO), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {arXiv.org perpetual, non-exclusive license}
+@inproceedings{schieber2022deep,
+  title={Deep Sensor Fusion with Pyramid Fusion Networks for 3D Semantic Segmentation},
+  author={Schieber, Hannah and Duerr, Fabian and Schoen, Torsten and Beyerer, J{\"u}rgen},
+  booktitle={2022 IEEE Intelligent Vehicles Symposium (IV)},
+  pages={375--381},
+  year={2022},
+  organization={IEEE}
 }
 ```
 
